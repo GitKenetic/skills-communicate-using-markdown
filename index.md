@@ -18,3 +18,9 @@ Follow step-by-step instructions to master Markdown.
 ###### Thanks for Learning!
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Here's a Code Example
+```bash
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```

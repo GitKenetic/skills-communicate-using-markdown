@@ -24,3 +24,9 @@ Follow step-by-step instructions to master Markdown.
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+### My Task List
+Here are some tasks I need to complete:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world

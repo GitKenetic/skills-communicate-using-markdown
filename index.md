@@ -16,3 +16,5 @@ Follow step-by-step instructions to master Markdown.
 - Documentation
 
 ###### Thanks for Learning!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
